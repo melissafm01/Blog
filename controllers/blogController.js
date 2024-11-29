@@ -5,7 +5,6 @@ let listarBlogs = async(req, res,)=> {
      res.json(respuesta);
     }catch(e){
         console.log(e)
-
     }
 }
 
